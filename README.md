@@ -9,7 +9,7 @@ In this Spring Boot application, the CloudFront signed URL generation functional
 
 ## Documentation on AWS Resource provisioning
 
-Please refer the [Medium Blog post](https://link)
+Please refer the [Medium Blog post](https://medium.com/@deshanranasinghe/expose-aws-s3-private-bucket-objects-via-cloudfront-signed-urls-fab678283622)
 
 
 ## Spring Boot Application Overview 
